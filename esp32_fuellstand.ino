@@ -77,6 +77,8 @@ String readDistances() {
   }
 }
 
+// es folgt die Intranetseite
+
 const char index_html[] PROGMEM = R"rawliteral(
 <!DOCTYPE HTML><html>
 <head>
